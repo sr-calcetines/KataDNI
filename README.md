@@ -1,6 +1,14 @@
 # 🆔 Kata DNI 
 In this project, the objective is to design with [Laravel](https://laravel.com) an application capable of generating via endpoint a letter for an eight-digit numerical string. Emulating the operation of the Spanish identification card (DNI).
 
+## 👀 App operation
+
+![Captura de pantalla 2025-01-09 113330](https://github.com/user-attachments/assets/9eea8e91-94ad-4e74-954b-a63feccd3f91)
+*Correct operation, returns the number entered and the assigned letter*
+
+![image](https://github.com/user-attachments/assets/d2d97dd5-53d5-49da-840a-e6fe5f353487)
+*Incorrect operation, returns error text*
+
 ## 💻 Languages ​​and tools  
 ![](https://skillicons.dev/icons?i=php,laravel,git,github,vscode,)
 
