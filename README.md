@@ -50,7 +50,7 @@ In this project, the objective is to design with [Laravel](https://laravel.com) 
 For this project, just one endpoint i needed to do all the functionalities; it's used to introduce the number you want to process; if it's correct it will return your number plus the corresponding letter; if it's not, it will show an error message warning you to introduce a valid number.
 
 ### 🔠 Assingn letter (GET)
-`http://127.0.0.1:8000/api/offers/id`
+`http://127.0.0.1:8000/api/assign/id`
 
 *you need to introduce the number where the id goes*
 
